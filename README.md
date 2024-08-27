@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/sepehrsylvanus/socialLinks-frontEndMentor)
-- Live Site URL: [Add live site URL here](https://sylvanus-sociallinks-frontendmentor.netlify.app/)
+- Solution URL: [github](https://github.com/sepehrsylvanus/socialLinks-frontEndMentor)
+- Live Site URL: [Netlify](https://sylvanus-sociallinks-frontendmentor.netlify.app/)
 
 ### Built with
 
@@ -38,5 +38,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](sani-dev-portfolio.vercel.app)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/sepehrsylvanus)
+- Website - [Sani dev.](sani-dev-portfolio.vercel.app)
+- Frontend Mentor - [@sepehrsylvanus](https://www.frontendmentor.io/profile/sepehrsylvanus)
